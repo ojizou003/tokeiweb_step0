@@ -223,7 +223,7 @@ $\frac{x-\overline{x}}{s}\times 10 + 50$
 
 共分散  
 $x$と$y$の共分散$s_{xy}$は、次の式で求められる  
-$s_{xy} = \frac{1}{n}\sum_{i=1}^n(x_i-\overline{x})(y_i-\overline{y})$
+$s_{xy} = \frac{1}{n}\sum_{i=1}^{n}(x_i-\overline{x})(y_i-\overline{y})$
 
 相関係数  
 $x$と$y$の相関係数$r$は、$x$と$y$の共分散$s_{xy}$を$x$と$y$の標準偏差$s_x,s_y$の積で割った数である  
