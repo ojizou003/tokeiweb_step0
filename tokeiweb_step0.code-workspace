@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay",
+		"editor.fontSize": 16,
+		"editor.fontFamily": "'Source Han Code JP', Consolas, 'Courier New', monospace"
+	}
+}
